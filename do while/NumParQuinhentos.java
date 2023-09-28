@@ -1,5 +1,3 @@
-package gabriel;
-
 public class NumParQuinhentos {
 	public static void main(String[] args) {
 		int i = 0;
