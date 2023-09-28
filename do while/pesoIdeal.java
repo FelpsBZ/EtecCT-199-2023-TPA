@@ -1,4 +1,3 @@
-package gabriel;
 import java.util.Scanner;
 public class pesoIdeal {
 	public static void main(String[] args) {
@@ -25,16 +24,16 @@ public class pesoIdeal {
 		}else {
 			pesoideal = 52 + (0.67 * (altura - 152.4));
 		}
-		System.out.println("Seu peso ideal é "+pesoideal);
+		System.out.println("Seu peso ideal Ã© "+pesoideal);
 		
 		if (peso != pesoideal){
 			
-			System.out.println("Você está fora do seu peso ideal.");
+			System.out.println("VocÃª estÃ¡ fora do seu peso ideal.");
 		}else {
-			System.out.println("Você está dentro do seu peso ideal.");
+			System.out.println("VocÃª estÃ¡ dentro do seu peso ideal.");
 		}
 		
-		System.out.println("Deseja contnuar? 1 para SIM ou 2 para NÂO");
+		System.out.println("Deseja contnuar? 1 para SIM ou 2 para NÃ‚O");
 		resposta = in.nextInt();
 		
 	}while (resposta == 1);
