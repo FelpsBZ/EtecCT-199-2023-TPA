@@ -1,4 +1,3 @@
-package ativiade1808;
 public class umAcem {
 	public static void main(String args[]) {
 		int n = 0;
