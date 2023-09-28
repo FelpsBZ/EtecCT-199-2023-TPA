@@ -1,4 +1,3 @@
-package gabriel;
 import java.time.LocalDate;
 import java.util.Scanner;
 public class UsersAge {
@@ -15,7 +14,7 @@ public class UsersAge {
 			
 			idade = AnoAtual - idade;
 			
-			System.out.println("você tem "+idade+" anos");
+			System.out.println("vocÃª tem "+idade+" anos");
 			
 			if(idade > maisVelho) {
 				maisVelho = idade;
