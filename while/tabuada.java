@@ -1,4 +1,3 @@
-package ativiade1808;
 import java.util.Scanner;
 	public class tabuada {
 		public static void main (String args []) {
@@ -7,7 +6,7 @@ import java.util.Scanner;
 		int i=1, tab, r;
 		
 		
-		System.out.println("Qual tabuada você quer? ");
+		System.out.println("Qual tabuada vocÃª quer? ");
 		tab = in.nextInt();
 			
 		while (i <=10) {
