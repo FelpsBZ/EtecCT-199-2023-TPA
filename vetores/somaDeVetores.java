@@ -1,4 +1,3 @@
-package vetores;
 import java.util.Scanner;
 public class somaDeVetores {
 public static void main(String[] args) {
