@@ -1,4 +1,3 @@
-package vetores;
 import java.util.Scanner;
 public class inversaoDeValores {
 public static void main(String[] args) {
